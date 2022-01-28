@@ -2,7 +2,11 @@
 - 👀 I’m interested in ...
   Python
   Java
+  HTML
+  CSS
+  JS
 - 🌱 I’m currently learning ...
-  Python
-  Scratch
   Java
+  HTML
+  CSS
+  JS
